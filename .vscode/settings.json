@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "fireplace": "Perl 6 FE",
+        "*.pm6": "Perl 6 FE",
+        "*.t": "Perl 6 FE"
+    }
+}
